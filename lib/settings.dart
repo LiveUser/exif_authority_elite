@@ -3,7 +3,7 @@
 import 'package:exif_authority_elite/functions.dart';
 import 'package:exif_authority_elite/variables.dart';
 import 'package:exif_authority_elite/widgets.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:raw_context/raw_context.dart';
 
 class SettingsPage extends StatefulWidget {

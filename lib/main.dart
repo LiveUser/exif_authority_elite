@@ -3,14 +3,14 @@ import 'package:exif_authority_elite/exif_editor.dart';
 import 'package:exif_authority_elite/location_tracker.dart'; // CRITICAL IMPORT
 import 'package:exif_authority_elite/settings.dart';
 import 'package:exif_authority_elite/widgets.dart';
-import 'package:flutter/material.dart';
-import 'package:quickie/quickie.dart';
+import 'package:material_ui/material_ui.dart';
 import 'variables.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:media_store_plus/media_store_plus.dart';
 import 'package:flutter_background_service/flutter_background_service.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:quickie/quickie.dart';
 
 Future<void> initializeService() async {
   final service = FlutterBackgroundService();

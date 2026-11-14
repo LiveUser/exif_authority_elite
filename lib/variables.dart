@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 const Color logoBackgroundColor =Color.fromARGB(255, 43, 55, 51);
 const Color logoForegroundColor = Color.fromARGB(255, 219, 183, 118);

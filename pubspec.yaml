@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   #location: ^7.0.0
-  quickie: ^1.0.5+6
+  quickie: ^1.0.9+10
   permission_handler: ^13.0.0
   path_provider: ^2.1.4
   image_picker: ^1.1.2
@@ -45,7 +45,10 @@ dependencies:
   objective_db: ^0.3.0+24
   flutter_background_service: ^5.1.0
   flutter_local_notifications: ^22.3.0
+  koni_jxl: ^0.1.4
+  rawkit: ^0.3.5
 
+  material_ui: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
